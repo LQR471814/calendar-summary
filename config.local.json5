@@ -1,0 +1,9 @@
+{
+	server: {
+		url: "https://192.168.1.10:5232/lqr471814",
+		username: "lqr471814",
+		password: "Lqr471814!",
+		insecure: true
+	},
+	calendar_name: "Schedule"
+}
